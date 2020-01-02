@@ -159,3 +159,5 @@ plot(new_wkdy$int_wkdy,new_wkdy$steps_wkdy,type = "l",xlab = "Intervals",
 ```
 
 From comparing the two plots, it looks like the weekend activities are higher than the weekdays.
+
+knit2html(PA1_template.Rmd)
